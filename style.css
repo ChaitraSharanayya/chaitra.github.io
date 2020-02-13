@@ -1,0 +1,15 @@
+  .nav-wrapper {
+      opacity: 0.8;
+  }
+
+  .bgimg {
+	   position:absolute;
+	   background-repeat:repeat;
+     background-size:cover;
+
+
+  }
+
+  .bgtext {
+	  position:absolute;
+  }
